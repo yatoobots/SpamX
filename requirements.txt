@@ -9,4 +9,3 @@ py-cpuinfo
 telegraph
 flask
 gunicorn
-flask_restful
